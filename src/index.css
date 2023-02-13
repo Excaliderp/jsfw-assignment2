@@ -1,0 +1,44 @@
+
+:root {
+  margin: 0 auto;
+  padding: 0;
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+body,
+html {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align
+  
+  : center;
+}
+
+header,
+footer {
+  background-color: #191308;
+  padding: 16px;
+  width: 100%;
+}
+
+main {
+  margin: 0 auto;
+  align-items: center;
+  background-color: #9CA3DB;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
