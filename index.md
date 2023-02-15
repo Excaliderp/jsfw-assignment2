@@ -1,7 +1,11 @@
 
 name: Timothy Karlsson
-npm & node: npm/8.19.3 node/v18.13.0 win32 x64 workspaces/false
-git version: git version 2.38.1.windows.1
+npm & node: npm/9.3.1 node/v18.14.0 win32 x64 workspaces/false
+git version: git version 2.39.0.windows.2
 
-Since course started: 13 days
-File created/updated: 2023-02-13 11:17
+Since course started: 16 days
+File created/updated: 2023-02-15 10:13
+
+Is your given date today? true
+Is your given date in the future? false
+Is your given date in the past? false
